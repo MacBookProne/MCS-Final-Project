@@ -18,7 +18,6 @@ function CattleEdit() {
         CalvingEase: "",
         Fleshing: "",
         Thickness: "",
-        Masculinity: "",
     });
     const [loading, setLoading] = useState(false);
 
